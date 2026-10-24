@@ -68,6 +68,8 @@ Here are some awesome tools for dealing with CSV:
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
 
+- [Agentrix CSV Guard](https://github.com/pauloflp/Agentrix/tree/main/products/agentrix-csv-guard) - Offline Node.js validator for CSV column counts, quoting and optional spreadsheet-formula risk checks.
+
 ## Generate Table Schema
 
 - [CSV Schema](https://csv-schema.surge.sh/) &mdash; Analyzes a CSV file and generates database table schema, all within the browser
